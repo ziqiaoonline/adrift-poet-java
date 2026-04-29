@@ -1,6 +1,6 @@
 # 🤖 Adrift Poet (Java)
 
-**Year 3002. Deep space. No signal. A robot drifts, core nearly depleted.**
+**Year 4721. Deep space. No signal. A robot drifts, core nearly depleted.**
 
 A text-based word puzzle game built to learn Java through narrative design. Collect word fragments across alien worlds, assemble them into collage poems, and recharge your core to survive.
 
